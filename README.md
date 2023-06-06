@@ -10,3 +10,5 @@ O apk está na raíz da pasta: app-debug.aab
 - Recyclerview
 - Extensions functions
 - ViewModels
+- IDE: Android Studio
+- Linguagem de programação: Kotlyn
