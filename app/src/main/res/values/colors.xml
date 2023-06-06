@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //master gradient
+    <color name="initial_color_gradient_master">#5619e3</color>
+    <color name="center_color_gradient_master">#0837d1</color>
+    <color name="end_color_gradient_master">#1996e3</color>
+
+    //control gradient
+    <color name="initial_color_gradient_control">#e6eaed</color>
+    <color name="center_color_gradient_control">#707273</color>
+    <color name="end_color_gradient_control">#4f4f4f</color>
+
+</resources>
